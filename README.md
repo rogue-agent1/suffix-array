@@ -1,10 +1,11 @@
-# Suffix Array
+# suffix-array
 
-A zero-dependency Python CLI tool.
+Suffix array construction and LCP array.
 
 ## Usage
 
 ```bash
-python suffix_array.py test
-python suffix_array.py demo
+python3 suffix_array.py test
 ```
+
+Zero dependencies. Python 3.8+.
